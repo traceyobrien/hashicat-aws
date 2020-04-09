@@ -14,11 +14,11 @@ variable "region" {
   default     = "us-east-1"
 }
 
-variable "Billable" {
+variable "billable" {
   default = true
 }
 
-variable "Department" {
+variable "department" {
   default = "devops"
 }
 
